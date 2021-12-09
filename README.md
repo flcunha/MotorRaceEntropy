@@ -1,2 +1,2 @@
 # MotorRaceEntropy
-Create a race entropy measure given historical data
+Create a motor race entropy measure given historical data
